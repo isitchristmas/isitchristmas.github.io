@@ -1,4 +1,4 @@
 isitchristmas.github.io
 =======================
 
-custom domain name center
+This exists so that other repositories' gh-pages branches will live at isitchristmas.io.
